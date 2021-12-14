@@ -4,7 +4,12 @@ Ghosts default theme [Casper](https://github.com/TryGhost/Casper) for Vuepress.
 
 ## Create with Stackbit
 
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/alexander-heimbuch/vuepress-theme-casper)
+This theme is deprecated and will no longer be maintained by Stackbit. 
+Stackbit launched a new major version that brings a superior developer experience and visual editing capabilities.
+
+Click the button below to create a new website using the new version of Stackbit.
+
+[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes)
 
 ## Installation
 
